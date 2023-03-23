@@ -1,0 +1,1 @@
+curl -s -o jp.m3u https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jp.m3u
